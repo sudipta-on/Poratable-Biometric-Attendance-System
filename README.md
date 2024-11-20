@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/96972008-0a95-41b2-b975-43b14bb0a5b8" width=15% height=15% align="left"> 
 <div>  
-  <h1>Poratable-Biometric-Attendance-System (P-BAS V.1.0)</h1> <br>
+  <h1>Poratable-Biometric-Attendance-System  <br>(P-BAS V.1.0)</h1>
   <p>This repository is created for sharing all codes, and circuit diagrams for making a Portable IoT-based Biometric Attendance System. </p>
 </div>
 
